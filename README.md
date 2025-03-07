@@ -1,1 +1,8 @@
-Phonebook project has a login and registration system, that uses a MySQL database. Project was part of an assignement with some guidance, mostly towards work relating to the database.
+Features
+- User and Register and Login Information
+- Information is stored on MySQL database
+- Manage user contacts
+Technologies Used
+- Application was made using Java Swing
+- MySQL Database
+Notes: The project was part of a class assignment with guidance focused on integrating a MySQL database with Java GUIs
